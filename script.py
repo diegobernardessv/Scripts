@@ -50,3 +50,4 @@ def organizar_downloads():
 # Executa a função de organização
 organizar_downloads()
 print("Organização concluída")
+
